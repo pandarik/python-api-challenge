@@ -18,6 +18,9 @@ To replicate this analysis:
 Ensure Python and jupyter installed.
 Clone this repository.
 Run `WeatherPy.ipynb’ first and then VactionPy.jpynb in Jupyter Notebook or JupyterLab.
+https://github.com/pandarik/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb
+https://github.com/pandarik/python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb
+
 
 Make sure to create API keys to # OpenWeatherMap API Key and # Geoapify API Key
 
